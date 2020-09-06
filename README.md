@@ -1,1 +1,1 @@
-# project_euler
+# My solution of project euler
